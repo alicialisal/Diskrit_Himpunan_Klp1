@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: himpunan
+Version: 0.1.0
+Summary: Library untuk operasi himpunan di Python
+Home-page: https://github.com/username/himpunan
+Author: alicia michael feli calvin
+Author-email: ajuanita@student.ciputra.ac.id
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Himpunan
+
+Himpunan adalah library Python sederhana untuk operasi pada himpunan.
+
+## Instalasi
+```bash
+pip install himpunan
