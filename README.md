@@ -1,7 +1,3 @@
-Berikut adalah template untuk README file Anda. Sesuaikan bagian deskripsi, penggunaan, dan contoh dengan kebutuhan Anda.
-
----
-
 # Himpunan
 
 **Himpunan** adalah paket Python sederhana untuk melakukan operasi pada himpunan, seperti gabungan, irisan, selisih, komplemen, dan himpunan kuasa.
