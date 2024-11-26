@@ -15,7 +15,7 @@
 Anda dapat menginstal paket ini melalui TestPyPI:
 
 ```bash
-pip install -i https://test.pypi.org/simple/ himpunan
+pip install --index-url https://test.pypi.org/simple/ himpunan
 ```
 
 Setelah dipublikasikan ke PyPI utama, Anda dapat menginstalnya seperti biasa:
