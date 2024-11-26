@@ -88,11 +88,3 @@ Himpunan(*elemen)
 - `*`: Selisih simetris (`h1 * h2`)
 
 ---
-
-Letakkan file ini di `README.md` di root repository Anda, lalu tambahkan ke repository Anda menggunakan perintah berikut:
-
-```bash
-git add README.md
-git commit -m "Menambahkan README"
-git push origin main
-```
