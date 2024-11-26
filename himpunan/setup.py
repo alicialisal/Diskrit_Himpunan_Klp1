@@ -6,7 +6,7 @@ setup(
     description="Library untuk operasi himpunan di Python",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    author="alicia michael feli calvin",
+    author="alicia_michael_feli_calvin",
     author_email="ajuanita@student.ciputra.ac.id",
     url="https://github.com/alicialisal/Diskrit_Himpunan_Klp1.git",  # Ganti dengan repo Anda
     packages=find_packages(),
