@@ -28,7 +28,7 @@ pip install himpunan
 Berikut adalah contoh penggunaan sederhana:
 
 ```python
-from himpunan import Himpunan
+from Himpunan import Himpunan
 
 # Membuat himpunan
 S = Himpunan(1, 2, 3, 4, 5, 6, 7, 8, 9)
